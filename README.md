@@ -1,3 +1,11 @@
+Thanks to HshLips developers for creating this easy to use tool that works out of the bat.
+I discovered some tweaks that helped me in building artwork collection the way I wanted.
+I would like to contribute to this project and hence forked it.
+Will be adding to this project sometime soon, just ironing out what I need to do.
+Will also try to post it to Wiki and explain the changes I have made, atleast that's the plan :)
+
+-----------------------------------------------------------------------------------------
+
 # Welcome to HashLips 👄
 
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
