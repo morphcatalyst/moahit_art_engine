@@ -1,4 +1,4 @@
-Thanks to HshLips developers for creating this easy to use tool that works out of the bat.
+Thanks to HashLips developers for creating this easy to use tool that works out of the bat.
 I discovered some tweaks that helped me in building artwork collection the way I wanted.
 I would like to contribute to this project and hence forked it.
 Will be adding to this project sometime soon, just ironing out what I need to do.
